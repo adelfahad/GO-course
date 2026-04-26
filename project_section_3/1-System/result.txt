@@ -1,0 +1,3 @@
+earning before tax: 50.00 $
+profit: 35.00 $
+ratio: 1.43
